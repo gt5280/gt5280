@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gt5280 
 - 👀 I am interested in embedded systems
-- 🌱 I am currently developing FPGA gateware and learning on embedded systems
+- 🌱 I am currently developing FPGA gateware and learning embedded systems
 - 💞️ I am looking to collaborate on FPGAs, microcontrollers and ARM projects
 - 📫 How to reach me: NA
 
