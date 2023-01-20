@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gt5280 
-- 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning embedded linux
-- 💞️ I’m looking to collaborate on FPGAs, microcontrollers and ARM
+- 👀 I am interested in embedded systems
+- 🌱 I am currently developing FPGA gateware and learning on embedded systems
+- 💞️ I am looking to collaborate on FPGAs, microcontrollers and ARM projects
 - 📫 How to reach me: NA
 
 <!---
